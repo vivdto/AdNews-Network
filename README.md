@@ -49,5 +49,3 @@ This project is licensed under the [MIT License](LICENSE).
 - News API: [Link](https://newsapi.org/)
 
 ---
-
-Feel free to customize this README to suit your specific project needs. Happy coding! 😊🚀
