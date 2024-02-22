@@ -2,6 +2,8 @@
 
 This repository contains the code for a React-based website that fetches real-time news headlines from an API, focusing on news from India. The website utilizes Bootstrap for styling and the Fetch API for retrieving data.
 
+![image](https://github.com/vivdto/NewsWeb/assets/83788445/045c13db-b50f-4b35-80aa-e8662a730e08)
+
 
 ## Features
 
@@ -10,25 +12,7 @@ This repository contains the code for a React-based website that fetches real-ti
 - Built using React for dynamic user interface
 - Utilizes Bootstrap for responsive design
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/vivdto/NewsWeb.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd react-news-website
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    npm install
-    ```
+  ![image](https://github.com/vivdto/NewsWeb/assets/83788445/a60d0082-5f26-4d5f-9880-cc4dc934e892)
 
 ## Usage
 
